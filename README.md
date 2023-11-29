@@ -48,3 +48,6 @@ https://github.com/jdawoony/big-data-analytics/blob/master/202044044_%EC%A0%95%E
 
 #### 결과 html 다운로드
 https://github.com/jdawoony/big-data-analytics/blob/master/202044044_%EC%A0%95%EB%8B%A4%EC%9A%B4_%EA%B5%AD%EB%82%B4%20%EA%B3%BC%EC%9D%BC%20%EC%8B%9C%EC%9E%A5%EA%B3%BC%20%EC%86%8C%EB%B9%84%20%EB%B6%84%EC%84%9D.html
+
+#### 분석 파일(.ipynb)
+https://github.com/jdawoony/big-data-analytics/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20(%EA%B5%AD%EB%82%B4%20%EA%B3%BC%EC%9D%BC%20%EC%8B%9C%EC%9E%A5%EA%B3%BC%20%EC%86%8C%EB%B9%84%20%EB%B6%84%EC%84%9D).ipynb
