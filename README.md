@@ -41,7 +41,7 @@
 5. 과일별 판매량 및 소비량 <br>
 6. 과일 재배지 분포 <br>
 7. 과일 특성 분류 모델 <br>
-8. 소비자의 과일 선호도 및 관심도
+8. 소비자의 과일 관심도
  <br> <br>
 #### 결과 보고서
 https://github.com/jdawoony/big-data-analytics/blob/master/202044044_%EC%A0%95%EB%8B%A4%EC%9A%B4_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
