@@ -46,6 +46,9 @@
 #### 결과 보고서
 https://github.com/jdawoony/big-data-analytics/blob/master/202044044_%EC%A0%95%EB%8B%A4%EC%9A%B4_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf
 
+#### 발표 ppt
+https://github.com/jdawoony/big-data-analytics/blob/master/202044044_%EC%A0%95%EB%8B%A4%EC%9A%B4_%20%EA%B5%AD%EB%82%B4%20%EA%B3%BC%EC%9D%BC%20%EC%8B%9C%EC%9E%A5%EA%B3%BC%20%EC%86%8C%EB%B9%84%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EC%88%98%EC%9A%94%20%EC%98%88%EC%B8%A1.pptx
+
 #### 결과 html 다운로드
 https://github.com/jdawoony/big-data-analytics/blob/master/202044044_%EC%A0%95%EB%8B%A4%EC%9A%B4_%EA%B5%AD%EB%82%B4%20%EA%B3%BC%EC%9D%BC%20%EC%8B%9C%EC%9E%A5%EA%B3%BC%20%EC%86%8C%EB%B9%84%20%EB%B6%84%EC%84%9D.html
 
